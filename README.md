@@ -32,3 +32,7 @@ Date de derniére mise à jour : 27/09/2017
 | V18.02| 26/09/2017 | 17PFSOCLEPARTAUTO  Nouvelles sociécité commerciale : 720 (Marque Dédiée Auto) - Modification. régle PDRCXXXX1339| RFP - David Mandel
 | DEPARTEMENT INFORMATIQUE : |
 
+### Documents Référencés
+| Référence | Intitulé | Version 
+| ------ | ------ | ------ | 
+|        | MRE- Modéle Objet Relationnel Entité- Messagerie Espace Client | V11.112.01
