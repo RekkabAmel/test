@@ -52,3 +52,5 @@ Date de derniére mise à jour : 27/09/2017
 | Référence | Intitulé | Version 
 | ------ | ------ | ------ | 
 |        | MRE- Modéle Objet Relationnel Entité- Messagerie Espace Client | V11.112.01
+
+
